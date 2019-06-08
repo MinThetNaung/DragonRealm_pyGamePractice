@@ -1,3 +1,5 @@
+#Author - Min Thet Naung
+
 import random #to generate a random number
 import time #to get time function
 
